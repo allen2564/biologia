@@ -80,7 +80,13 @@ iframe {
     width: 400px;
     background-color: #161616;
     color: #fff;
+    transition-duration: .5s;
 
+}
+
+
+.images div img{
+    transition-duration: .5s;
 }
 
 .images div img:hover {
